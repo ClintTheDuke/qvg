@@ -28,12 +28,14 @@ def get_git_remote_info():
 
     if url.startswith("https://"):
         # https://github.com/USERNAME/REPO.git
-        parts = url.rstrip(".git").split("/")
+        clean_url = url[:-4] if url.endswith(".git") else url
+        parts = clean_url.split("/")
         return parts[-2], parts[-1]
 
     if url.startswith("git@"):
         # git@github.com:USERNAME/REPO.git
-        repo_part = url.split(":")[1].rstrip(".git")
+        repo_part = url.split(":")[1]
+        repo_part = repo_part[:-4] if repo_part.endswith(".git") else repo_part
         username, repo = repo_part.split("/")
         return username, repo
 
