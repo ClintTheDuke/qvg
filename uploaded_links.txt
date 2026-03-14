@@ -52,3 +52,4 @@ https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/marvel-spider-man2.jpg
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/red-dead-redemption2.jpg
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/shadow-of-the-tomb-raider.jpg
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/star-citizen.jpg
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/game-type4.jpg
