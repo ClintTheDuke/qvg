@@ -66,3 +66,6 @@ https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/last-of-us2c.jpg
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/marvel-spider-man2c.jpg
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/most-expensive-video-games.jpg
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/shadow-of-the-tomb-raiderc.jpg
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/game-type2.jpg
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/game-type5.jpg
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/game-type6.jpg
