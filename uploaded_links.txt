@@ -74,3 +74,5 @@ https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/duke-nukem-forever-deve
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/ready-or-not-v1.4.2-fix.jpg
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/roblox-2026-comeback.jpg
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/windows11-fps-fix.jpg
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/ag-meme1.jpg
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/ag-meme2.jpg
