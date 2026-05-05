@@ -129,3 +129,5 @@ https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/crimson-desert-bug2.jpg
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/crimson-desert-bug3.jpg
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/crimson-desert-bug4.jpg
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/crimson-desert-bugs-glitches.jpg
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/videos/goyen-boss-fight-crimson-desert.jpg
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/videos/goyen-boss-fight-crimson-desert.mp4
