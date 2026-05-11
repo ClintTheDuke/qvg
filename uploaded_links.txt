@@ -144,3 +144,11 @@ https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/crows-pursuit-crimson-d
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/tauria-curved-sword.jpg
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/crow-caller-boss-fight.mp4
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/crows-pursuit-crimson-desert.mp4
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/crescent-moon-slash-crimson-desert.jpg
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/crimson-desert-moon-slash-abyss-gear.jpg
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/crimson-desert-witch-npc.jpg
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/demeniss-map1.jpg
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/demeniss-map2.jpg
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/full-moon-slash-crimson-desert.jpg
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/half-moon-slash-crimson-desert.jpg
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/crimson-desert-moon-slash-abyss-gear.mp4
