@@ -152,3 +152,6 @@ https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/demeniss-map2.jpg
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/full-moon-slash-crimson-desert.jpg
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/half-moon-slash-crimson-desert.jpg
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/crimson-desert-moon-slash-abyss-gear.mp4
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/crimson-desert-iguana-mount.jpg
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/crimson-desert-image.jpg
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/crimson-desert-npc-quest-location.jpg
