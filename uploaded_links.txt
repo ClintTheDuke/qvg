@@ -155,3 +155,10 @@ https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/crimson-desert-moon-sla
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/crimson-desert-iguana-mount.jpg
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/crimson-desert-image.jpg
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/crimson-desert-npc-quest-location.jpg
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/crimson-desert-golden-apples.jpg
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/crimson-desert-golden-apples2.jpg
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/grey-rock-dock.jpg
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/grey-rock-dock2.jpg
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/hedgehog-crimson-desert.jpg
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/night-time.jpg
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/night-time2.jpg
