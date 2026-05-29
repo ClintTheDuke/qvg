@@ -210,3 +210,4 @@ https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/steam-deck-oled-shortcu
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/steam-deck.jpg
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/‎hp-omen-35L.jpg
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/‎hp-omen-35.jpg
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/pc.jpg
