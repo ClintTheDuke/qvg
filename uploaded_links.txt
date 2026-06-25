@@ -281,3 +281,4 @@ https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/razer-basilisk.jpg
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/razer-viper-v4-pro.jpg
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/windows-11-gaming-performance.jpg
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/wireless-gaming-mouse-long-battery-2026.jpg
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/logitech-gpro.jpg
