@@ -312,3 +312,4 @@ https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/best-budget-gaming-mous
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/hyperx-pulsefire-haste.jpg
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/vxe-r1-series.jpg
 https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/qvg226/applause-sound.mp3
+https://cdn.jsdelivr.net/gh/ClintTheDuke/qvg@main/sounds/universfield-level-up-08-402152.mp3
